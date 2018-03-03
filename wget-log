@@ -1,0 +1,12 @@
+--2018-03-03 20:30:10--  https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x86_64.tar.bz2
+Resolving bitbucket.org (bitbucket.org)... 104.192.143.1, 104.192.143.3, 104.192.143.2, ...
+Connecting to bitbucket.org (bitbucket.org)|104.192.143.1|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://bbuseruploads.s3.amazonaws.com/fd96ed93-2b32-46a7-9d2b-ecbc0988516a/downloads/396e7977-71fd-4592-8723-495ca4cfa7cc/phantomjs-2.1.1-linux-x86_64.tar.bz2?Signature=f8sNE1YJGz0FTb9nyDvKfyhOzBo%3D&Expires=1520090128&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=null&response-content-disposition=attachment%3B%20filename%3D%22phantomjs-2.1.1-linux-x86_64.tar.bz2%22 [following]
+--2018-03-03 20:30:14--  https://bbuseruploads.s3.amazonaws.com/fd96ed93-2b32-46a7-9d2b-ecbc0988516a/downloads/396e7977-71fd-4592-8723-495ca4cfa7cc/phantomjs-2.1.1-linux-x86_64.tar.bz2?Signature=f8sNE1YJGz0FTb9nyDvKfyhOzBo%3D&Expires=1520090128&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=null&response-content-disposition=attachment%3B%20filename%3D%22phantomjs-2.1.1-linux-x86_64.tar.bz2%22
+Resolving bbuseruploads.s3.amazonaws.com (bbuseruploads.s3.amazonaws.com)... 52.216.161.19
+Connecting to bbuseruploads.s3.amazonaws.com (bbuseruploads.s3.amazonaws.com)|52.216.161.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23415665 (22M) [application/x-tar]
+Saving to: ‘phantomjs-2.1.1-linux-x86_64.tar.bz2’
+

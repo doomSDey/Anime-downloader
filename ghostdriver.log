@@ -1,0 +1,53 @@
+[INFO  - 2018-03-03T16:19:32.698Z] GhostDriver - Main - running on port 47077
+[INFO  - 2018-03-03T16:19:32.819Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-03-03T16:19:32.819Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.customHeaders:  - {}
+[INFO  - 2018-03-03T16:19:32.819Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-03-03T16:19:32.819Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a84068c0-1efe-11e8-a25e-3f7d73ef9393
+[ERROR - 2018-03-03T16:19:35.372Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.mobile={}')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:35.373Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - stack:
+  (anonymous function) (https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js:3)
+  (anonymous function) (https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js:3)
+  (anonymous function) (https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:37.714Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - msg: TypeError: null is not an object (evaluating 'vid.volume = 1.0')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:37.714Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - stack:
+  setFullVolume (http://m1.chia-anime.tv/view/b-the-beginning-episode-12/?c=1520094489:435)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:38.709Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - msg: TypeError: undefined is not an object (evaluating 'jQuery("#my-video")[0].player')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:38.710Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - stack:
+  playnow (http://m1.chia-anime.tv/view/b-the-beginning-episode-12/?c=1520094489:358)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:39.709Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - msg: TypeError: undefined is not an object (evaluating 'jQuery("#my-video")[0].player')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:39.710Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - stack:
+  pausenow (http://m1.chia-anime.tv/view/b-the-beginning-episode-12/?c=1520094489:364)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:51.720Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - msg: TypeError: undefined is not an object (evaluating 'jQuery("#my-video")[0].player')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-03T16:19:51.721Z] Session [a84068c0-1efe-11e8-a25e-3f7d73ef9393] - page.onError - stack:
+  playnow2 (http://m1.chia-anime.tv/view/b-the-beginning-episode-12/?c=1520094489:368)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-03-03T16:24:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T16:29:32.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T16:34:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T16:39:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T16:44:32.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T16:49:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T16:54:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T16:59:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T17:04:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T17:09:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-03T17:14:32.720Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
