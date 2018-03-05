@@ -16,5 +16,5 @@ It will be able to download anime episodes for given range.
   1. Run `anime-d.py`
 
   2. Input
-    - Link for the initial episode from [Chia-Anime] (http://ww1.chia-anime.tv/)
+    - Link for the initial episode from [Chia-Anime](https://www.chia-anime.tv/)
     - Range for episodes
