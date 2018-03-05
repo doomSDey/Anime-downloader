@@ -1,5 +1,3 @@
-# Anime-downloader
-
 # Anime Downloader
 
 ## Overview
