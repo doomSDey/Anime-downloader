@@ -57,7 +57,7 @@ def Download(link):
 	parser = BeautifulSoup(src,"lxml") # initialize the parser and parse the source "src"
 	#list_of_attributes = {"name" : ".mp4"} # A list of attributes that you want to check in a tag
 	tag = parser.findAll('a', attrs={'href': re.compile("^http://luffy.chia-anime.tv")}) # Get the video tag from the source
-	print tag[0];
+	print (tag[0]);
 	n = 0 # Specify the index of video element in the web page
 	url = tag[n]['href'] # get the src attribute of the video
 	wget.download(url,out="/home/sudipta/Downloads") # download the video
@@ -68,7 +68,7 @@ def FirstEpi(link):
 	pos=link.find("episode")
 	res=link[pos:]
 	pos1=res.find("-")
-	print res[pos1+3]
+	print (res[pos1+3])
 	if(res[pos1+2]=="/"):
 		res1=res[pos1+1:pos1+2]
 	elif(res[pos1+3]=="/"):
