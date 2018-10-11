@@ -5,9 +5,6 @@ It will be able to download anime episodes for given range.
 
 ## Dependencies Required
 - wget
-- time
-- os
-- sys
 - bs4
 
 ## Usage  
